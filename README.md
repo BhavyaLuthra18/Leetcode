@@ -36,4 +36,5 @@
 | [0183-customers-who-never-order](https://github.com/BhavyaLuthra18/Leetcode/tree/master/0183-customers-who-never-order) |
 | [0584-find-customer-referee](https://github.com/BhavyaLuthra18/Leetcode/tree/master/0584-find-customer-referee) |
 | [0596-classes-with-at-least-5-students](https://github.com/BhavyaLuthra18/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
+| [0620-not-boring-movies](https://github.com/BhavyaLuthra18/Leetcode/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
