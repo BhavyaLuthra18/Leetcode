@@ -40,6 +40,7 @@
 | [1075-project-employees-i](https://github.com/BhavyaLuthra18/Leetcode/tree/master/1075-project-employees-i) |
 | [1251-average-selling-price](https://github.com/BhavyaLuthra18/Leetcode/tree/master/1251-average-selling-price) |
 | [1667-fix-names-in-a-table](https://github.com/BhavyaLuthra18/Leetcode/tree/master/1667-fix-names-in-a-table) |
+| [1693-daily-leads-and-partners](https://github.com/BhavyaLuthra18/Leetcode/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/BhavyaLuthra18/Leetcode/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/BhavyaLuthra18/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
