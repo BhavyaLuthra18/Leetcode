@@ -40,4 +40,5 @@
 | [1075-project-employees-i](https://github.com/BhavyaLuthra18/Leetcode/tree/master/1075-project-employees-i) |
 | [1251-average-selling-price](https://github.com/BhavyaLuthra18/Leetcode/tree/master/1251-average-selling-price) |
 | [1667-fix-names-in-a-table](https://github.com/BhavyaLuthra18/Leetcode/tree/master/1667-fix-names-in-a-table) |
+| [1757-recyclable-and-low-fat-products](https://github.com/BhavyaLuthra18/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
