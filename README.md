@@ -39,4 +39,5 @@
 | [0620-not-boring-movies](https://github.com/BhavyaLuthra18/Leetcode/tree/master/0620-not-boring-movies) |
 | [1075-project-employees-i](https://github.com/BhavyaLuthra18/Leetcode/tree/master/1075-project-employees-i) |
 | [1251-average-selling-price](https://github.com/BhavyaLuthra18/Leetcode/tree/master/1251-average-selling-price) |
+| [1667-fix-names-in-a-table](https://github.com/BhavyaLuthra18/Leetcode/tree/master/1667-fix-names-in-a-table) |
 <!---LeetCode Topics End-->
