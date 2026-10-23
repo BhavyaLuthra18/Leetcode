@@ -28,6 +28,7 @@
 | [0009-palindrome-number](https://github.com/BhavyaLuthra18/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/BhavyaLuthra18/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/BhavyaLuthra18/Leetcode/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/BhavyaLuthra18/Leetcode/tree/master/0069-sqrtx) |
 ## Database
 |  |
 | ------- |
@@ -43,4 +44,12 @@
 | [1693-daily-leads-and-partners](https://github.com/BhavyaLuthra18/Leetcode/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/BhavyaLuthra18/Leetcode/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/BhavyaLuthra18/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/BhavyaLuthra18/Leetcode/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/BhavyaLuthra18/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
